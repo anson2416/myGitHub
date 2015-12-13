@@ -9,3 +9,5 @@
 修改readme.txt
 使用 git status查看仓库当前状态
 git diff查看修改的具体内容（具体差异）
+#3 Append GPL
+Git is free software distributed under the GPL.
